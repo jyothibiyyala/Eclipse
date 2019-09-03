@@ -1,0 +1,2 @@
+module demojavaproject {
+}
